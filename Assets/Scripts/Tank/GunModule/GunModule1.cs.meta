@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7f9478aa3e7b74b10a011fc2bca9effb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - shell: {fileID: 1977666328897002, guid: 3ce51ec93c7644987b8bdaf40f0f5f17, type: 2}
+  - spawnShell: {fileID: 4819556328727972, guid: 597e1dbe12fc7432bb0cbe6030d81c00,
+      type: 2}
+  - tower: {fileID: 1068029055945668, guid: 597e1dbe12fc7432bb0cbe6030d81c00, type: 2}
+  - gun: {fileID: 1104471822162848, guid: 597e1dbe12fc7432bb0cbe6030d81c00, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
